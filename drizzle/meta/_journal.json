@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1721328804315,
+      "tag": "0000_confused_gorilla_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1721329754651,
+      "tag": "0001_goofy_mandarin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1721991694862,
+      "tag": "0002_warm_cargill",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1722012715113,
+      "tag": "0003_sticky_tag",
+      "breakpoints": true
+    }
+  ]
+}
